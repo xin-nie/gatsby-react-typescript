@@ -3,8 +3,7 @@
   "description": "Gatsby blog starter",
   "version": "1.0.0",
   "author": "Xin Nie <niexin.study@gmail.com>",
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
     "gatsby",
     "blog"
@@ -22,14 +21,18 @@
     "@dschau/create-gatsby-blog-post": "^1.1.0",
     "@types/prop-types": "^15.5.2",
     "@types/react": "^16.0.23",
+    "@types/react-helmet": "^5.0.3",
     "gatsby": "^1.9.110",
     "gatsby-link": "^1.6.27",
+    "gatsby-plugin-catch-links": "^1.0.9",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typescript": "^1.4.10",
+    "gatsby-source-filesystem": "^1.5.8",
+    "gatsby-transformer-remark": "^1.7.21",
+    "prettier": "^1.8.2",
     "prop-types": "^15.6.0",
     "tslint": "^5.8.0",
     "tslint-react": "^3.2.0",
-    "typescript": "^2.6.1",
-    "prettier": "^1.8.2"
+    "typescript": "^2.6.1"
   }
 }
